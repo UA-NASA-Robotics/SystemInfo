@@ -1,6 +1,3 @@
 ### System Descriptions and Learning materials
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+See the wiki for this project to get all the Required material in organized format with references to needed materials.
