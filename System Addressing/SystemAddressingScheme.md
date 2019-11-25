@@ -1,0 +1,16 @@
+| Device | Address(dec)	| CAN Filter(hex) | CAN Mask(hex) |
+
+| --- | --- |
+
+|ControlBox | 1 | 40 | FE0 |
+Pozyx	2	80	FE0
+Juice Board	3	C0	FE0
+Router Card	4	100	FE0
+Master Controller	5	140	FE0
+Motor Controller	6	180	FE0
+Gyro Controller	7	1C0	FE0
+StrainSensor	8	200	FE0
+Optical Flow	9	240	FE0
+RaspberryPi	10	280	FE0
+LED Card	11	2C0	FE0
+Global Address	31	7C0	FE0
