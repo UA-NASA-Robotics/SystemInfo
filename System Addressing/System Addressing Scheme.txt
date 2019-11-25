@@ -1,5 +1,8 @@
-Device					Address(dec)	CAN Filter(hex)			CAN Mask(hex)
-ControlBox					1				40						FE0
+| Device | Address(dec)	| CAN Filter(hex) | CAN Mask(hex) |
+
+| --- | --- |
+
+|ControlBox | 1 | 40	| FE0 |
 Pozyx	2	80	FE0
 Juice Board	3	C0	FE0
 Router Card	4	100	FE0
